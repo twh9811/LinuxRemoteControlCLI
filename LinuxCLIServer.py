@@ -1,4 +1,3 @@
-from posixpath import split
 import subprocess
 import socket
 import os
